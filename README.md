@@ -1,6 +1,6 @@
 # flutter_clb_tinhban_ui_app
 
-Mạng xã hội CLB Tình bạn
+Mạng xã hội 
 
 ## Getting Started
 
